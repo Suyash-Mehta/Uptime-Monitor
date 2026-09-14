@@ -1,6 +1,6 @@
 # SRE Uptime Monitor
 
-A Node.js script that monitors website uptime — checks multiple sites at a time, sends an alert if a website is down, tells us the uptime %, exposes a live status API, and stores site status data in SQLite.
+A Node.js script that monitors website uptime checks multiple sites at a time, sends an alert if a website is down, tells us the uptime %, exposes a live status API, and stores site status data in SQLite.
 
 ## Features
 
